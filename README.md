@@ -1,8 +1,7 @@
 ## CAN: Co-embedding Attributed Networks
-This repository contains the Python implementation for CAN
+This repository contains the Python implementation for CAN. Further details about CAN can be found in our paper:
 > Zaiqiao Meng, Shangsong Liang, Hongyan Bao, Xiangliang Zhang. Co-embedding Attributed Networks. (WSDM2019)
 
-Further details about CAN can be found in our paper.
 
 ## Requirements
 =================
