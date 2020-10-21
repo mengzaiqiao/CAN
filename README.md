@@ -2,6 +2,7 @@
 This repository contains the Python implementation for CAN. Further details about CAN can be found in our paper:
 > Zaiqiao Meng, Shangsong Liang, Hongyan Bao, Xiangliang Zhang. Co-embedding Attributed Networks. (WSDM2019)
 
+A semi-supervised version of the CAN model can be found in [SCAN](https://github.com/mengzaiqiao/SCAN)
 ## Introduction
 
 Co-embedding for Attributed Networks (CAN) is a model that learns low-dimensional representations of both attributes and nodes in the same semantic space such that the affinities between them can be effectively captured and measured. The node and attribute embeddings obtained in the unified manner in CAN can benefit not only node-oriented network problems (e.g., node classification and link prediction), but also attribute inference problems (e.g., predicting the value of attributes of nodes). More importantly, the common semantic embedding space provides a simple but effective solution to user profiling problem, as the relevance of users (nodes) and keywords (attributes) can be directly measured, e.g., by cosine similarity, or dot product. 
