@@ -2,6 +2,8 @@
 This repository contains the Python implementation for CAN. Further details about CAN can be found in our paper:
 > Zaiqiao Meng, Shangsong Liang, Hongyan Bao, Xiangliang Zhang. Co-embedding Attributed Networks. (WSDM2019)
 
+- A pytorch implementation can be found [here](https://github.com/GuanZhengChen/CAN-Pytorch).
+
 A semi-supervised version of the CAN model can be found in [SCAN](https://github.com/mengzaiqiao/SCAN)
 ## Introduction
 
